@@ -176,7 +176,7 @@ form .btn{
     border-radius: 8px;
     font-size: 18px;
     font-weight: 500;
-    cursor: none;
+    cursor: pointer;
 }
 
 form .btn:hover{
